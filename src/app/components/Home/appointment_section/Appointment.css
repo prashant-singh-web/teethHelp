@@ -1,0 +1,6 @@
+.input-control{
+    @apply bg-transparent p-2 duration-200 ease-in-out border-b-[1.5px] border-gray-300/30 outline-none text-xs font-medium text-gray-200/80 placeholder:text-gray-300/80 focus-within:border-white;
+}
+.form-label{
+    @apply text-white text-xs font-medium;
+}
