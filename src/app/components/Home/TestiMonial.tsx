@@ -35,7 +35,7 @@ function TestiMonial() {
       testiminial:
         "Lorem ipsum dolor, sit amet consectetur adipisicing elit.Reprehenderit distinctio unde sed molestias doloremque iste!",
       clientName: "Vivek Singh",
-      clientProfession: " Fradiya Dentist",
+      clientProfession: " Dentist",
       clientImage: "/asset/docter.jpg",
     },
     {
@@ -67,7 +67,7 @@ function TestiMonial() {
       testiminial:
         "Lorem ipsum dolor, sit amet consectetur adipisicing elit.Reprehenderit distinctio unde sed molestias doloremque iste!",
       clientName: "Vivek Singh",
-      clientProfession: " Fradiya Dentist",
+      clientProfession: " Dentist",
       clientImage: "/asset/docter.jpg",
     },
   ];
