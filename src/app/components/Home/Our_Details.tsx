@@ -6,7 +6,7 @@ import "../css/home.css";
 function Our_Details() {
   
   return (
-    <div id="about_us" className="w-full p-5 md:p-20 bg-white grid grid-cols-1 md:grid-cols-2">
+    <div id="about_us" className="w-full p-5 md:p-20 bg-white grid grid-cols-1 lg:grid-cols-2">
       <Image
         src={`/asset/OurService/123.jpg`}
         unoptimized
